@@ -39,20 +39,6 @@ Our system is designed for **speed, reliability, and simplicity** — so chargin
 
 ---
 
-## 💡 Tech Stack
-
-We use a combination of modern hardware and software technologies:
-
-- **Mobile App:** Flutter / React Native  
-- **Backend:** Node.js / Laravel  
-- **Database:** PostgreSQL / MySQL  
-- **Dashboard:** React / Vue  
-- **IoT Integration:** MQTT, REST APIs  
-- **Infrastructure:** Docker, Cloud Hosting
-
-> *(Replace or edit based on your actual stack.)*
-
----
 
 ## 🌟 Get Involved
 
