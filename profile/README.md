@@ -1,4 +1,4 @@
-![SomCharge Banner](https://somcharge.com/assets/img/hero.jpg)
+![SomCharge Banner](https://somcharge.com/gallery/1.webp)
 
 # SomCharge GitHub Repository
 
